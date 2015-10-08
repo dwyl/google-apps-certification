@@ -28,13 +28,10 @@ getting in/back to work, few have proved successful.
 + Can't get experience without a job ...  
 > How can we *address* this?
 
-### Founders & Coders Training?
-
-[***Founders & Coders***](http://www.foundersandcoders.com/about/)
-*already* provides *industry-leading* colaborative-learning
-
 
 ### Google Apps?
+
+![google apps for work logo](https://cloud.githubusercontent.com/assets/194400/10389969/553b6d08-6e6d-11e5-921d-bb0bbc244e37.png)
 
 Over 5 million businesses have switched to using Google Apps including:
 FedEx, Ocado, The Guardian, National Geographic, The New York Times.
@@ -45,11 +42,33 @@ Most of the businesses using Google Apps are *Small and Medium* companies (***SM
 The features are industry leading, everything works immediately without
 any setup costs and total cost of ownership is lower than other systems.
 
+A Goolge Apps *Certificate* will help job-seekers ***stand out***
+from the crowd.
+
 ## *How*?
 
 We propose offering to ***guide*** job-seekers through the
-e-learning course which will lead to Google Apps Certification
+e-learning course which will lead to Google Apps Certification.
 
+> It is ***possible*** to watch all the videos and complete the exercises in ***one day***. However we expect people to pace themselves and ask for help when they get stuck and get it done in a **week**.
+
+### What *Qualifies* Founders & Coders to do *Google Apps* Training?
+
+At [***Founders & Coders***](http://www.foundersandcoders.com/about/) we use ***Google Apps*** and have
+*industry experience* of *introducing* companies to Google Apps/Docs,
+we feel we can guide people through a *short* & *intensive*
+program to equip people with the skills so they can *successfully* apply for jobs in businesses which are using Google Apps.
+
+
+People who feel they want to *already* provides *industry-leading* colaborative-learning for *software development*, we recognize that our **16 week intensive program** may *not* be *suitable* for
+some job-seekers who may feel intimidated by the *steep learning curve*.
+
+### e-Learning (*from anywhere, any device and at own pace*)
+
+Because the course learning materials are online, anyone can
+go through them on any device and at their own pace.
+We will simply provide guidance and clarify any issues people face,
+to keep them on track towards completing the certification.
 
 ![online learning](https://cloud.githubusercontent.com/assets/194400/10389575/b28bcb36-6e6a-11e5-9f63-00ba0509ec22.png)
 
