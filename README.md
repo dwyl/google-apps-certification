@@ -6,13 +6,12 @@ Exploring Google Apps Certified Administrator
 
 There are two problems
 
-![job-center-image](https://cloud.githubusercontent.com/assets/194400/10373547/150e36de-6de6-11e5-8079-cca43c69d13e.jpeg)
+![job-center-people-waiting](https://cloud.githubusercontent.com/assets/194400/10373918/3610fe5a-6de8-11e5-98f1-40b6da171bf9.jpg)
 
 According to [recent figures, ***Youth Unemployment*** is at a ***20 Year
 High***](http://www.theguardian.com/society/2015/feb/22/youth-unemployment-jobless-figure).
-This is *espcially bad* among [young ethnic minority people in
-UK](http://www.theguardian.com/society/2015/mar/10/50-rise-in-long-term-unemployed-youngsters-from-uk-ethnic-minorities) which has seen a **50%** rise since 2010.
-
+The statistics are *espcially grim* among [young ethnic minority people in
+UK](http://www.theguardian.com/society/2015/mar/10/50-rise-in-long-term-unemployed-youngsters-from-uk-ethnic-minorities) **up by 50%** since 2010.
 
 
 Over 5 million businesses have switched to using Google Apps including:
