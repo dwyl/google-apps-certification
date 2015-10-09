@@ -1,4 +1,3 @@
-
 # Google Apps as a *Route to Work*
 
 Exploring Google Apps Certified Administrator for Job Seekers in Tower Hamlets.
@@ -21,7 +20,7 @@ however we are focussing on solving them *locally* first.</small>
 ![job-center-people-waiting](https://cloud.githubusercontent.com/assets/194400/10373918/3610fe5a-6de8-11e5-98f1-40b6da171bf9.jpg)
 
 According to [*recent figures*, ***Youth Unemployment*** *remains* ***High*** *at* ***15.4%*** ](http://www.theguardian.com/society/2015/feb/22/youth-unemployment-jobless-figure).
-The statistics are *espcially grim* for [long-term unemployment for young ethnic minority people in
+The statistics are *especially grim* for [long-term unemployment for young ethnic minority people in
 UK](http://www.theguardian.com/society/2015/mar/10/50-rise-in-long-term-unemployed-youngsters-from-uk-ethnic-minorities); **up by 50%** since 2010.
 
 While there are *several* government schemes to aid people in
@@ -34,6 +33,16 @@ getting in/back to work, few have proved successful.
 
 
 ### Google Apps?
+
+The "*traditional*" (Microsoft) office suite of applications have
+been *replaced* by Google Apps in almost *50%* of the Fortune 500.
+
++ Email + Calendar: Microsoft **Outlook** > Google [***Mail***](https://www.google.com/work/apps/business/products/gmail/) + [***Calendar***](https://www.google.com/work/apps/business/products/calendar/)
++ Word Processing: Microsoft **Word** > Google [***Docs***](https://www.google.com/work/apps/business/products/docs/)
++ Spreadsheets (Data/Calcuations): Microsoft **Excel** > Google [***Sheets***](https://www.google.com/work/apps/business/products/sheets/)
++ Presentations: Microsoft **PowerPoint** > Google [***Slides***](https://www.google.com/work/apps/business/products/slides/)
++ Conference / Video Calling: "*WebEx*" > Google [***Hangouts***](https://www.google.com/work/apps/business/products/hangouts/)
+
 
 ![google apps for work logo](https://cloud.githubusercontent.com/assets/194400/10389969/553b6d08-6e6d-11e5-921d-bb0bbc244e37.png)
 
@@ -92,7 +101,7 @@ to keep them on track towards completing the certification.
 > We need to contact google to get them to *waive* the
 certification exam fee for *job-seekers* ...
 
-![connect to Kim](https://cloud.githubusercontent.com/assets/194400/10390626/ba503a3a-6e71-11e5-9b84-ba233c0a02ef.png)
+![Kim](https://cloud.githubusercontent.com/assets/194400/10390626/ba503a3a-6e71-11e5-9b84-ba233c0a02ef.png)
 
 Help request sent:
 
@@ -104,6 +113,8 @@ Help request sent:
 + How Google Apps Work: https://www.youtube.com/watch?v=doHnLiAzQ5M
 + Google Apps Customers: https://www.google.com/work/apps/business/customers/
 + http://googleforwork.blogspot.co.uk/2015/10/custom-email-apps-and-more-for-Google-Domains.html
++ Google Apps YouTube Channel:
+https://www.youtube.com/user/GoogleApps (*learn everything*!)
 
 Unemployment Stats:
 + http://www.tradingeconomics.com/united-kingdom/youth-unemployment-rate
