@@ -92,8 +92,11 @@ to keep them on track towards completing the certification.
 > We need to contact google to get them to *waive* the
 certification exam fee for *job-seekers* ...
 
+![connect to Kim](https://cloud.githubusercontent.com/assets/194400/10390626/ba503a3a-6e71-11e5-9b84-ba233c0a02ef.png)
 
+Help request sent:
 
+![connect with kim](https://cloud.githubusercontent.com/assets/194400/10390738/6a84de4c-6e72-11e5-9d4b-bb93c19f11a9.png)
 
 
 ## Further Reading
