@@ -1,16 +1,19 @@
 
+# Google Apps Certification a *Route to Work*
 
-# Google Apps Certification
-
-Exploring Google Apps Certified Administrator
+Exploring Google Apps Certified Administrator for Job Seekers in Tower Hamlets.
 
 ## Why?
 
-The *World* faces **two problems**:
-1. high youth unemployment (16-24 year olds)
-2. technical skills shortage.  
+*Tower Hamlets* faces **two problems**<sup>1</sup>:
+1. High Youth Unemployment (16-24 year olds) **15.4%**
+2. Technical Skills Shortage.  
 
 We propose making progress towards a potential solution to *both*.
+
+<sup>1</sup><small>These are not *unique* to the borough,
+most countries/cities face this exact pair of issues,
+however we are focussing on solving them *locally* first.</small>
 
 ## *What*?
 
