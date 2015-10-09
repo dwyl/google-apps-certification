@@ -45,6 +45,8 @@ any setup costs and total cost of ownership is lower than other systems.
 A Goolge Apps *Certificate* will help job-seekers ***stand out***
 from the crowd.
 
+![apps-ct-cert](https://cloud.githubusercontent.com/assets/194400/10390118/74e2d5a0-6e6e-11e5-8f87-61209fb0c2fd.jpg)
+
 ## *How*?
 
 We propose offering to ***guide*** job-seekers through the
