@@ -63,7 +63,7 @@ Most of the businesses using Google Apps are *Small and Medium* companies (***SM
 The [features](https://www.google.com/work/apps/business/products/)  are industry leading, everything works immediately without
 any setup costs and total cost of ownership is lower than other systems.
 
-A Goolge Apps ***Certificate*** will help job-seekers ***stand out***
+A Google Apps ***Certificate*** will help job-seekers ***stand out***
 from the crowd:
 
 ![apps-ct-cert](https://cloud.githubusercontent.com/assets/194400/10390118/74e2d5a0-6e6e-11e5-8f87-61209fb0c2fd.jpg)
