@@ -1,5 +1,5 @@
 
-# Google Apps Certification a *Route to Work*
+# Google Apps as a *Route to Work*
 
 Exploring Google Apps Certified Administrator for Job Seekers in Tower Hamlets.
 
@@ -36,7 +36,9 @@ getting in/back to work, few have proved successful.
 
 ![google apps for work logo](https://cloud.githubusercontent.com/assets/194400/10389969/553b6d08-6e6d-11e5-921d-bb0bbc244e37.png)
 
-Over 5 million businesses have switched to using Google Apps including:
+The move to "The Cloud" has been *relentless* over the past 4 years.
+
+Today over ***5 million businesses*** have switched to ***using Google Apps*** including:
 FedEx, Ocado, The Guardian, National Geographic, The New York Times.
 Most of the businesses using Google Apps are *Small and Medium* companies (***SME***s) and that's where the *opportunity* is.
 
@@ -54,8 +56,10 @@ from the crowd.
 
 We propose offering to ***guide*** job-seekers through the
 e-learning course which will lead to Google Apps Certification.
+We will coach each job-seeker through each of the 5 core apps:
+Email, Calendar, Word Processing, Spreadsheets ("Google Docs") and Drive in a class-based learning environment till they reach *proficiency*.
 
-> It is ***possible*** to watch all the videos and complete the exercises in ***one day***. However we expect people to pace themselves and ask for help when they get stuck and get it done in a **week**.
+> It is ***possible*** to watch all the videos and complete the exercises in ***one day***. However we expect people to pace themselves and ask for help when they get stuck and get it done in a **week** or two.
 
 ### What *Qualifies* Founders & Coders to do *Google Apps* Training?
 
