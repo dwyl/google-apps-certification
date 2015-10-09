@@ -34,35 +34,37 @@ getting in/back to work, few have proved successful.
 
 ### Google Apps?
 
+![google apps for work logo](https://cloud.githubusercontent.com/assets/194400/10389969/553b6d08-6e6d-11e5-921d-bb0bbc244e37.png)
+
 The "*traditional*" (Microsoft) office suite of applications have
 been *replaced* by Google Apps in almost *50%* of the Fortune 500.
+The move to "The Cloud" has been *relentless* over the past 4 years.
+
+The greatest advatage Google Apps have is that they can be used on *any* computer, smartphone or tablet with access to the Internet.
+
+![google-apps-overview](https://cloud.githubusercontent.com/assets/194400/10400595/891cb624-6eb1-11e5-9820-3eedb6c971d4.png)
+
+A short list of the "*old*" (*desktop-bound*) Microsoft "Office" ("*productivity*") applications and their corresponding Google
+*replacements*:
 
 + Email + Calendar: Microsoft **Outlook** > Google [***Mail***](https://www.google.com/work/apps/business/products/gmail/) + [***Calendar***](https://www.google.com/work/apps/business/products/calendar/)
 + Word Processing: Microsoft **Word** > Google [***Docs***](https://www.google.com/work/apps/business/products/docs/)
 + Spreadsheets (Data/Calcuations): Microsoft **Excel** > Google [***Sheets***](https://www.google.com/work/apps/business/products/sheets/)
 + Presentations: Microsoft **PowerPoint** > Google [***Slides***](https://www.google.com/work/apps/business/products/slides/)
 + Conference / Video Calling: "*WebEx*" > Google [***Hangouts***](https://www.google.com/work/apps/business/products/hangouts/)
-
-
-![google apps for work logo](https://cloud.githubusercontent.com/assets/194400/10389969/553b6d08-6e6d-11e5-921d-bb0bbc244e37.png)
-
-The move to "The Cloud" has been *relentless* over the past 4 years.
-
-**Google Apps is a set of web applications provided by Google**. 
-They include Google Docs (word processor), Google Sheets (spreadsheet program), Google Slides (presentation program), Calendar and others.    
-They can be used on *any* computer, smartphone or tablet with access to the Internet.
++ Document Storage & Sharing: Google [***Drive***](https://www.google.com/work/apps/business/products/drive/)
++ Building/Hosting Websites: Google [***Sites***](https://www.google.com/work/apps/business/products/sites/)
 
 Today over ***5 million businesses*** have switched to ***using Google Apps*** including:
 FedEx, Ocado, The Guardian, National Geographic, The New York Times.
 Most of the businesses using Google Apps are *Small and Medium* companies (***SME***s) and that's where the *opportunity* is.
 
-![google-apps-overview](https://cloud.githubusercontent.com/assets/194400/10389573/b084b0e6-6e6a-11e5-9046-a49f62bd9365.png)
 
-The features are industry leading, everything works immediately without
+The [features](https://www.google.com/work/apps/business/products/)  are industry leading, everything works immediately without
 any setup costs and total cost of ownership is lower than other systems.
 
-A Goolge Apps *Certificate* will help job-seekers ***stand out***
-from the crowd.
+A Goolge Apps ***Certificate*** will help job-seekers ***stand out***
+from the crowd:
 
 ![apps-ct-cert](https://cloud.githubusercontent.com/assets/194400/10390118/74e2d5a0-6e6e-11e5-8f87-61209fb0c2fd.jpg)
 
@@ -71,7 +73,10 @@ from the crowd.
 We propose offering to ***guide*** job-seekers through the
 e-learning course which will lead to Google Apps Certification.
 We will coach each job-seeker through each of the 5 core apps:
-Email, Calendar, Word Processing, Spreadsheets ("Google Docs") and Drive in a class-based learning environment till they reach *proficiency*.
+Email, Calendar, Word Processing (Docs), Spreadsheets (Sheets) and Drive in a class-based learning environment till they reach *proficiency*.
+
+These skills are *highly* transferable and will give them
+a differentiator in the job market.
 
 ### 2-4 hours per day for a 5-10 days *self-paced*
 
@@ -100,14 +105,14 @@ to keep them on track towards completing the certification.
 ![online learning](https://cloud.githubusercontent.com/assets/194400/10389575/b28bcb36-6e6a-11e5-9f63-00ba0509ec22.png)
 
 
-### *Required*
+### *To Do*
 
-> We need to contact google to get them to *waive* the
-certification exam fee for *job-seekers* ...
+> To get this ball moving we need to contact people at Google
+to get them to *waive* the certification exam fee for *job-seekers* ...
 
 ![Kim](https://cloud.githubusercontent.com/assets/194400/10390626/ba503a3a-6e71-11e5-9b84-ba233c0a02ef.png)
 
-Help request sent:
+I've sent a help request to Kim:
 
 ![connect with kim](https://cloud.githubusercontent.com/assets/194400/10390738/6a84de4c-6e72-11e5-9d4b-bb93c19f11a9.png)
 
