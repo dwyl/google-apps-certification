@@ -71,9 +71,11 @@ At [***Founders & Coders***](http://www.foundersandcoders.com/about/) we use ***
 we feel we can guide people through a *short* & *intensive*
 program to equip people with the skills so they can *successfully* apply for jobs in businesses which are using Google Apps.
 
-
-People who feel they want to *already* provides *industry-leading* colaborative-learning for *software development*, we recognize that our **16 week intensive program** may *not* be *suitable* for
-some job-seekers who may feel intimidated by the *steep learning curve*.
+> *If* people on the Google Apps training decide they want to
+*challenge* themselves to learn *development skills*
+(*thus unlocking the most in-demand career opportunities*)
+we can help coach them further after
+they complete this initial training.
 
 ### e-Learning (*from anywhere, any device and at own pace*)
 
