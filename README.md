@@ -6,6 +6,7 @@ Exploring Google Apps Certified Administrator for Job Seekers in Tower Hamlets.
 ## Why?
 
 *Tower Hamlets* faces **two problems**<sup>1</sup>:
+
 1. High Youth Unemployment (16-24 year olds) **15.4%**
 2. Technical Skills Shortage.  
 
