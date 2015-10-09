@@ -59,6 +59,8 @@ e-learning course which will lead to Google Apps Certification.
 We will coach each job-seeker through each of the 5 core apps:
 Email, Calendar, Word Processing, Spreadsheets ("Google Docs") and Drive in a class-based learning environment till they reach *proficiency*.
 
+### 2-4 hours per day for a 5-10 days *self-paced*
+
 > It is ***possible*** to watch all the videos and complete the exercises in ***one day***. However we expect people to pace themselves and ask for help when they get stuck and get it done in a **week** or two.
 
 ### What *Qualifies* Founders & Coders to do *Google Apps* Training?
