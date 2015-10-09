@@ -39,6 +39,10 @@ getting in/back to work, few have proved successful.
 
 The move to "The Cloud" has been *relentless* over the past 4 years.
 
+**Google Apps is a set of web applications provided by Google**. 
+They include Google Docs (word processor), Google Sheets (spreadsheet program), Google Slides (presentation program), Calendar and others.    
+They can be used on *any* computer, smartphone or tablet with access to the Internet.
+
 Today over ***5 million businesses*** have switched to ***using Google Apps*** including:
 FedEx, Ocado, The Guardian, National Geographic, The New York Times.
 Most of the businesses using Google Apps are *Small and Medium* companies (***SME***s) and that's where the *opportunity* is.
