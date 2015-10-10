@@ -1,6 +1,6 @@
 # Google Apps as a *Route to Work*
 
-Exploring Google Apps Certified Administrator for Job Seekers in Tower Hamlets.
+Exploring Google Apps Certified Administrator for Jobseekers in Tower Hamlets.
 
 ## Why?
 
@@ -40,7 +40,7 @@ The "*traditional*" (Microsoft) office suite of applications have
 been *replaced* by Google Apps in almost *50%* of the Fortune 500.
 The move to "The Cloud" has been *relentless* over the past 4 years.
 
-The greatest advatage Google Apps have is that they can be used on *any* computer, smartphone or tablet with access to the Internet.
+The greatest advantage Google Apps have is that they can be used on *any* computer, smartphone or tablet with access to the Internet.
 
 ![google-apps-overview](https://cloud.githubusercontent.com/assets/194400/10400595/891cb624-6eb1-11e5-9820-3eedb6c971d4.png)
 
@@ -63,16 +63,16 @@ Most of the businesses using Google Apps are *Small and Medium* companies (***SM
 The [features](https://www.google.com/work/apps/business/products/)  are industry leading, everything works immediately without
 any setup costs and total cost of ownership is lower than other systems.
 
-A Goolge Apps ***Certificate*** will help job-seekers ***stand out***
+A Google Apps ***Certificate*** will help jobseekers ***stand out***
 from the crowd:
 
 ![apps-ct-cert](https://cloud.githubusercontent.com/assets/194400/10390118/74e2d5a0-6e6e-11e5-8f87-61209fb0c2fd.jpg)
 
 ## *How*?
 
-We propose offering to ***guide*** job-seekers through the
+We propose offering to ***guide*** jobseekers through the
 e-learning course which will lead to Google Apps Certification.
-We will coach each job-seeker through each of the 5 core apps:
+We will coach each jobseeker through each of the 5 core apps:
 Email, Calendar, Word Processing (Docs), Spreadsheets (Sheets) and Drive in a class-based learning environment till they reach *proficiency*.
 
 These skills are *highly* transferable and will give them
@@ -108,7 +108,7 @@ to keep them on track towards completing the certification.
 ### *To Do*
 
 > To get this ball moving we need to contact people at Google
-to get them to *waive* the certification exam fee for *job-seekers* ...
+to get them to *waive* the certification exam fee for *jobseekers* ...
 
 ![Kim](https://cloud.githubusercontent.com/assets/194400/10390626/ba503a3a-6e71-11e5-9b84-ba233c0a02ef.png)
 
