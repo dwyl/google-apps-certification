@@ -1,6 +1,6 @@
 # Google Apps as a *Route to Work*
 
-Exploring Google Apps Certified Administrator for Jobseekers in Tower Hamlets.
+This  Google Apps Certified Administrator training programme is designed to give sustainable employability skills to jobseekers in Tower Hamlets. However, it is just a small part of what we can offer. *If* people on the Google Apps training decide they want to *challenge* themselves to learn *development skills* (*thus unlocking the most in-demand career opportunities*) we can help coach them further after they complete this initial training.
 
 ## Why?
 
@@ -31,6 +31,26 @@ getting in/back to work, few have proved successful.
 + Can't get experience without a job ...  
 > How can we *address* this?
 
+## *How*?
+
+We propose offering to ***guide*** jobseekers through the
+e-learning course which will lead to Google Apps Certification.
+We will coach each jobseeker through each of the 5 core apps:
+Email, Calendar, Word Processing (Docs), Spreadsheets (Sheets) and Drive in a class-based learning environment till they reach *proficiency*.
+
+These skills are *highly* transferable and will give them
+a differentiator in the job market.
+
+### 2-4 hours per day for a 5-10 days *self-paced*
+
+> It is ***possible*** to watch all the videos and complete the exercises in ***one day***. However we expect people to pace themselves and ask for help when they get stuck and get it done in a **week** or two.
+
+### What *Qualifies* Founders & Coders to do *Google Apps* Training?
+
+At [***Founders & Coders***](http://www.foundersandcoders.com/about/) we use ***Google Apps*** and have
+*industry experience* of *introducing* companies to Google Apps/Docs,
+we feel we can guide people through a *short* & *intensive*
+program to equip people with the skills so they can *successfully* apply for jobs in businesses which are using Google Apps.
 
 ### Google Apps?
 
@@ -67,33 +87,6 @@ A Google Apps ***Certificate*** will help jobseekers ***stand out***
 from the crowd:
 
 ![apps-ct-cert](https://cloud.githubusercontent.com/assets/194400/10390118/74e2d5a0-6e6e-11e5-8f87-61209fb0c2fd.jpg)
-
-## *How*?
-
-We propose offering to ***guide*** jobseekers through the
-e-learning course which will lead to Google Apps Certification.
-We will coach each jobseeker through each of the 5 core apps:
-Email, Calendar, Word Processing (Docs), Spreadsheets (Sheets) and Drive in a class-based learning environment till they reach *proficiency*.
-
-These skills are *highly* transferable and will give them
-a differentiator in the job market.
-
-### 2-4 hours per day for a 5-10 days *self-paced*
-
-> It is ***possible*** to watch all the videos and complete the exercises in ***one day***. However we expect people to pace themselves and ask for help when they get stuck and get it done in a **week** or two.
-
-### What *Qualifies* Founders & Coders to do *Google Apps* Training?
-
-At [***Founders & Coders***](http://www.foundersandcoders.com/about/) we use ***Google Apps*** and have
-*industry experience* of *introducing* companies to Google Apps/Docs,
-we feel we can guide people through a *short* & *intensive*
-program to equip people with the skills so they can *successfully* apply for jobs in businesses which are using Google Apps.
-
-> *If* people on the Google Apps training decide they want to
-*challenge* themselves to learn *development skills*
-(*thus unlocking the most in-demand career opportunities*)
-we can help coach them further after
-they complete this initial training.
 
 ### e-Learning (*from anywhere, any device and at own pace*)
 
